@@ -1,3 +1,3 @@
 # Gif Expert App
 
-Este es mi respo del proyecto de GifExpertApp de React.
+Este es mi repo del proyecto de GifExpertApp de React.
